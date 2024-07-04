@@ -1,8 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  width: 100%; /* Set the width to 100% to take up the full width of the page */
+  margin: 0; /* Remove any margin */
+  padding: 0; /* Remove any padding */
+  background-color: transparent; /* Set background color to transparent if needed */
 }
 
 .logo {

@@ -13,12 +13,11 @@ This project is built using TypeScript, React, Express, Node.js, Vite, Bootstrap
 1. Clone the repository:
    git clone `https://github.com/djgd27/ng-effective-solutions.git`
 2. Navigate to the project directory:
-   cd ng-effective-solutions
+   cd NGES
 3. Install dependencies:
    npm install
 4. Start the development server:
    npm run dev
-5. Open your browser and navigate to `http://localhost:5174` to view the website.
 
 ## How to Build
 

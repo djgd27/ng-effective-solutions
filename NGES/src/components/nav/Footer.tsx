@@ -92,8 +92,8 @@ const Footer: React.FC = () => {
           </div>
         </div>
       </footer>
-      <div className="container mx-auto px-4 bg-black bg-dark text-white py-3">
-        <div className="flex justify-between items-center">
+      <div className="w-full px-4 bg-black bg-dark text-white py-3">
+        <div className="flex justify-between items-center max-w-7xl mx-auto">
           <p className="text-sm">
             &copy; Copyright {new Date().getFullYear()} - NG Effective Solutions
           </p>

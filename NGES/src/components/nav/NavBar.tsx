@@ -19,25 +19,25 @@ const NavBar: React.FC = () => {
               Home
             </Nav.Link>
             <Nav.Link
-              href="/about"
+              href="/about/"
               className="hover:text-cyan-400 font-bold text-gray-400"
             >
               About
             </Nav.Link>
             <Nav.Link
-              href="/services"
+              href="/services/"
               className="hover:text-cyan-400 font-bold text-gray-400"
             >
               Services
             </Nav.Link>
             <Nav.Link
-              href="/faq"
+              href="/faq/"
               className="hover:text-cyan-400 font-bold text-gray-400"
             >
               FAQ
             </Nav.Link>
             <Nav.Item className="d-flex align-items-center">
-              <Nav.Link href="/estimate" className="p-0">
+              <Nav.Link href="/request-estimate/" className="p-0">
                 <Button variant="primary" className="ml-2">
                   Request Estimate
                 </Button>

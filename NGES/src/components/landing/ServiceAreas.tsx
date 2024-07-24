@@ -58,7 +58,7 @@ const ServiceArea: React.FC = () => {
         {locations.map((location, index) => (
           <div
             key={index}
-            className="p-2 rounded-md shadow-sm text-sm"
+            className="p-2 rounded-md shadow-sm text-md"
             style={{ maxWidth: "150px" }} // Adjust as needed
           >
             {location}
